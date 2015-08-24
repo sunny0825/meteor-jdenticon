@@ -1,3 +1,6 @@
 [submodule "jdenticon"]
 	path = jdenticon
 	url = https://github.com/dmester/jdenticon.git
+[submodule "lib/jdenticon"]
+	path = lib/jdenticon
+	url = https://github.com/dmester/jdenticon.git
